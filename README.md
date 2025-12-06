@@ -88,16 +88,18 @@ Varsayılan Yönetici Hesabı (Seeder ile gelir):
 Projenin öne çıkan ekran görüntüleri:
 
 ### Anasayfa
-*(Buraya `screenshots/home.png` ekleyin)*
 ![Anasayfa](screenshots/home.png)
 
+![Anasayfa](screenshots/home2.png)
+
 ### Admin Paneli - Dashboard
-*(Buraya `screenshots/admin.png` ekleyin)*
 ![Admin Dashboard](screenshots/admin.png)
 
 ### Soru-Cevap Bölümü
-*(Buraya `screenshots/questions.png` ekleyin)*
 ![Soru Cevap](screenshots/questions.png)
+
+
+Geliştirici:[Ali Fırat Özer]
 
 ## 📄 Lisans
 
